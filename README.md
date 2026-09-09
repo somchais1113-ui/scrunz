@@ -25,3 +25,15 @@ The dashboard is a coaching/analytics aid, not a medical diagnostic tool. It int
 - Added Landing Page before the dashboard
 - Added Overview Hub page before entering the main dashboard
 - Added quick navigation from Overview to main modules
+
+
+## V2.2 Update
+- Refined Landing Page for a more professional presentation-first experience
+- Improved hero hierarchy, summary panel, and positioning content
+- Polished Overview naming and entry flow
+
+
+## V2.3 Update
+- Added intro animation screen before entering the experience
+- Added reveal and motion animations across landing, overview, and main dashboard
+- Added animated chart elements and micro-interactions for presentation quality
