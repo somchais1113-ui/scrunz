@@ -19,3 +19,9 @@ Garmin-native activity metrics come from `data/Activities_latest.csv`. HRV Statu
 
 ## Important
 The dashboard is a coaching/analytics aid, not a medical diagnostic tool. It intentionally shows NEEDS DATA instead of inventing recovery or readiness values.
+
+
+## V2.1 Update
+- Added Landing Page before the dashboard
+- Added Overview Hub page before entering the main dashboard
+- Added quick navigation from Overview to main modules
